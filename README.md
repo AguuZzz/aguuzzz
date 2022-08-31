@@ -1,5 +1,5 @@
 <h1 align="center">Oal soy Agus</h1>
-<h3 align="center">Estudiando desde temprana edad</h3>
+<h3 align="center">kaklakladijeop</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aguuzzz&label=Profile%20views&color=0e75b6&style=flat" alt="aguuzzz" /> </p>
 
