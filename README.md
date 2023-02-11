@@ -1,5 +1,7 @@
 <h1 align="center">Oal soy Agus</h1>
-<h3 align="center">------------------------------------------------------</h3>
+<h5 align="left">Programming for fun!"</h3>
+<h5 align="left">Spanish / Argentinian</h3>
+<h5 align="left">Python / Javascript</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aguuzzz&label=Profile%20views&color=0e75b6&style=flat" alt="aguuzzz" /> </p>
 
