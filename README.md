@@ -1,4 +1,4 @@
-# Hola! Soy Agus, un gran apasionado de la informatica
+# Hello world! i'm Agus, a techlover
 ***
 
 # 💻 Mis pocos pero lindos conocimientos:
