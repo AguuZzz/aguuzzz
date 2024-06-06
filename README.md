@@ -1,5 +1,5 @@
 <h1 align="center">Hello world! I'm Agus</h1>
-<h3 align="center">A young dev</h3>
+<h3 align="center">16Years_Old, Spanglish, 🇦🇷</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aguuzzz&label=Profile%20views&color=b40e0e&style=flat" alt="aguuzzz" /> </p>
 
